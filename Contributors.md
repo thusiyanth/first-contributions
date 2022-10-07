@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Thusiyanth ratnasingam](https://github.com/thusiyanth)
 - [Sanath Raj Petkar](https://github.com/kar108)
 - [Prathamesh Sable](https://github.com/prathameshks)
 - [Martarion](https://github.com/Martarion-Code)
